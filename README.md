@@ -1,4 +1,4 @@
-# PowerBI-Projects
+# sales of global Superstore2016-PowerBI-Projects
 This Repository consist of my first data Visualization projects which I made using PowerBI tool.
 Some details regarding  are:-
 Project: sales of global Superstore.
